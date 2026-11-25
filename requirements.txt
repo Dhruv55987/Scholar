@@ -1,0 +1,25 @@
+# --- Core LangChain (LCEL / Runnables) ---
+langchain
+langchain-core
+langchain-community
+
+# --- LLM provider: Groq (not OpenAI) ---
+langchain-groq
+groq
+
+# --- Agents: create_react_agent lives in LangGraph ---
+langgraph
+
+# --- Tool 1: Tavily search ---
+langchain-tavily
+tavily-python
+
+# --- Tool 2: Web scraping with BeautifulSoup ---
+beautifulsoup4
+lxml
+requests
+httpx
+
+# --- Config and validation ---
+python-dotenv
+pydantic
